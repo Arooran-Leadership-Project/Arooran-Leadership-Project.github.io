@@ -42,7 +42,8 @@
     margin-top:1%;
     box-shadow: 1px 1px 3px 3px;
     overflow:hidden;
-    position: relative;
+    position: absolute;
+    bottom:0;
 }
 
 #titlecontainer{
