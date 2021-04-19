@@ -1,6 +1,6 @@
 *{
     background-color: lawngreen;
-    height:fit-content;
+    height:100%;
     width:100%;
     margin:0;
     overflow: auto;
@@ -42,8 +42,7 @@
     margin-top:1%;
     box-shadow: 1px 1px 3px 3px;
     overflow:hidden;
-    position: absolute;
-    bottom:0;
+    position:relative;
 }
 
 #titlecontainer{
